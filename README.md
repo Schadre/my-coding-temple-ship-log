@@ -1,3 +1,4 @@
-# Module 1 Coding Temple Bootcamp Software Engineering Core | Git Commit Assignment
+# Module 1 Coding Temple Bootcamp 
+# Software Engineering Core | Git/Github Assignment
 
-Author : Schadre Dent
+Student : Schadre Dent
